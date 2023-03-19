@@ -16,4 +16,6 @@ printf("palindrome number ");
 else    
 printf("not palindrome");   
 return 0;  
-}   
+}
+#This is the first program
+#this is the palindrome code   
